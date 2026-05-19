@@ -107,13 +107,13 @@ The Power BI dashboard includes:
 - Electric range evolution analysis
 - Interactive filters and slicers
 
-Advanced SQL Concepts Used
-Common Table Expressions (CTEs)
-Window Functions (LAG)
-Aggregations and ranking
-Year-over-year calculations
-Dynamic filtering
-Multi-stage analytical pipelines
+Advanced SQL Concepts Used;
+* Common Table Expressions (CTEs)
+* Window Functions (LAG)
+* Aggregations and ranking
+* Year-over-year calculations
+* Dynamic filtering
+* Multi-stage analytical pipelines
 
 Key Takeaways
 - EV adoption has grown dramatically since 2015
